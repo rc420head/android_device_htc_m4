@@ -229,5 +229,9 @@
     <!-- Performance profiles -->
     <!--<string name="config_perf_profile_prop">sys.perf.profile</string> -->
     <!--<string name="config_perf_profile_default_entry">1</string> -->
+    
+    <!-- proximity wake option -->
+    <bool name="config_proximityCheckOnWake">true</bool>
+    <integer name="config_proximityCheckTimeout">400</integer>
 
 </resources>
